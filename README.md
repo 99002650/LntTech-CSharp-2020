@@ -1,6 +1,6 @@
 # LntTech-CSharp-2020
-<hr>
-# C# Training for Lnt Technology Services-Mysore Sep-2020
+<hr/>
+# CSharp Training for Lnt Technology Services-Mysore Sep-2020
 
 <pre>
  _                                                  _   _     _         ____    _                       _ 
@@ -15,3 +15,4 @@
 2. Visual Studio 2015 or later
 3. SQL Server 2012 or later
 4. Basic MS Office Tools
+
