@@ -10,3 +10,8 @@
  |_____|  \___|  \__,_| |_|    |_| |_|     \_/\_/   |_|  \__| |_| |_|   |_|     |_| |_|  \__,_| |_| |_| |_|
                                                                                                            
 </pre>
+# Software requirements
+1. Windows 10 OS
+2. Visual Studio 2015 or later
+3. SQL Server 2012 or later
+4. Basic MS Office Tools
