@@ -1,6 +1,6 @@
 # LntTech-CSharp-2020
 <hr>
-## C# Training for Lnt Technology Services-Mysore Sep-2020
+# C# Training for Lnt Technology Services-Mysore Sep-2020
 <pre>
  _                                                  _   _     _         ____    _                       _ 
  | |       ___    __ _   _ __   _ __     __      __ (_) | |_  | |__     |  _ \  | |__     __ _   _ __   (_)
