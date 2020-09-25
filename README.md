@@ -16,7 +16,7 @@
 3. SQL Server 2012 or later
 4. Basic MS Office Tools
 
-## Dau 1
+## Day 1
 <br/>
 Basics of C#
 
