@@ -19,4 +19,19 @@
 ## Day 1
 <br/>
 Basics of C#
-
+1. Basics of Main Function
+2. Variables in C#
+3. Value Types
+4. Arrays 
+5. Classes and Objects
+<br/>
+## Day 2:
+1. Functions in Classes
+2. SOLID Principles of OOP
+3. Inheritance
+4. Polymorphism
+5. Abstract Classes and Interfaces
+6. Events and Delegates
+7. Collection Framewokrs
+8. Custom Collections
+<hr/>
