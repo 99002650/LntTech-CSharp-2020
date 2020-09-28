@@ -31,6 +31,11 @@ Basics of C#
 4. Polymorphism
 5. Abstract Classes and Interfaces
 6. Events and Delegates
-7. Collection Framewokrs
-8. Custom Collections
+
+# Day 3:
+1. Collection Framewokrs
+2. Custom Collections
+3. IEnumerable vs. IEnumerator
+4. IComparable vs. IComparer.
+5. Review of assignment BookStore App
 <hr/>
