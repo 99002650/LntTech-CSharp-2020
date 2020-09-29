@@ -38,4 +38,11 @@ Basics of C#
 3. IEnumerable vs. IEnumerator
 4. IComparable vs. IComparer.
 5. Review of assignment BookStore App
+
+# Day 4:
+1. Exception Handling
+2. Serializations
+3. Memory Management
+4. Creating and Consuming DLLs
+5. Reflection in C#
 <hr/>
