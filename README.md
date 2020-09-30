@@ -45,4 +45,11 @@ Basics of C#
 3. Memory Management
 4. Creating and Consuming DLLs
 5. Reflection in C#
+
+# Day 5
+1. Delegates and Events
+2. Multi Threading
+3. Async Programming
+4. WCF Services
+5. MVC + Web API Intro
 <hr/>
